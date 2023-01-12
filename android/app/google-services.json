@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761083994279",
+    "project_id": "eklezia-f2fc6",
+    "storage_bucket": "eklezia-f2fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761083994279:android:076d5556ec0b6ee4c3bb82",
+        "android_client_info": {
+          "package_name": "com.example.eklezia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761083994279-o7ei5ttqj7cg664b7fuiubh2i5skmfe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuBSRJstPLmTSrYeDpACofQqa87dcnYq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761083994279-o7ei5ttqj7cg664b7fuiubh2i5skmfe9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
